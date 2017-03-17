@@ -1,0 +1,11 @@
+CHANGED,/var/www/AppMyWeight/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/apps/alter/appmyweight/MainActivity$override.class
+CHANGED,/var/www/AppMyWeight/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/apps/alter/appmyweight/R$style$override.class
+CHANGED,/var/www/AppMyWeight/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/var/www/AppMyWeight/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/apps/alter/appmyweight/R$string$override.class
+CHANGED,/var/www/AppMyWeight/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/apps/alter/appmyweight/R$id$override.class
+CHANGED,/var/www/AppMyWeight/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/apps/alter/appmyweight/R$mipmap$override.class
+CHANGED,/var/www/AppMyWeight/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/design/R$id$override.class
+CHANGED,/var/www/AppMyWeight/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/apps/alter/appmyweight/R$layout$override.class
+CHANGED,/var/www/AppMyWeight/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/apps/alter/appmyweight/R$styleable$override.class
+CHANGED,/var/www/AppMyWeight/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/apps/alter/appmyweight/R$integer$override.class
+CHANGED,/var/www/AppMyWeight/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/appcompat/R$id$override.class
